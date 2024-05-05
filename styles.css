@@ -99,10 +99,11 @@
             margin-right: auto;
         }
 
-        img {
+        /* img {
             display: block;
             margin: auto auto;
-        }
+        } */
+
         .headline {
             text-align: center;
         }
