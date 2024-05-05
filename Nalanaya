@@ -18,7 +18,6 @@
    
     <link rel="icon" type="image/png" sizes="32x32" href="images/About me/Logo.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/About me/Logo.png">
-    <link rel="manifest" href="site.webmanifest">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -290,8 +289,8 @@
 
     <!-- Java Script
     ================================================== -->
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
+    <script src="plugins.js"></script>
+    <script src="main.js"></script>
 
 </body>
 </html>
